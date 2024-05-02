@@ -1,0 +1,5 @@
+/venv
+/.idea
+credentials.json
+vercel.json
+.env
